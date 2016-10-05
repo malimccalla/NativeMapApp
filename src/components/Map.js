@@ -25,7 +25,7 @@ class Map extends Component {
           initialZoomLevel={this.state.zoom}
           initialDirection={0}
           rotateEnabled={false}
-          scrollEnabled
+          scrollEnabled={false}
           zoomEnabled={false}
           showsUserLocation
           styleURL={'mapbox://styles/malimichael/citua2ub3002o2iqgxas59fem'}
