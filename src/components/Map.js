@@ -26,7 +26,7 @@ class Map extends Component {
           initialDirection={0}
           rotateEnabled={false}
           scrollEnabled
-          zoomEnabled
+          zoomEnabled={false}
           showsUserLocation
           styleURL={'mapbox://styles/malimichael/citua2ub3002o2iqgxas59fem'}
           userTrackingMode={Mapbox.userTrackingMode.follow}
